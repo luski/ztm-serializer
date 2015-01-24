@@ -1,0 +1,27 @@
+{
+  "name": "ztm-serializer",
+  "version": "0.0.0",
+  "description": "Serializer for parsed objects from 'ztm-parser' library",
+  "main": "serializer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luski/ztm-serializer.git"
+  },
+  "keywords": [
+    "ztm",
+    "warszawa",
+    "serializer",
+    "js"
+  ],
+  "author": "Lukasz Godlewski <l.godlewski@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luski/ztm-serializer/issues"
+  },
+  "dependencies": {
+    "ztm-parser": "git://github.com/luski/ztm-parser.git"
+  }
+}
